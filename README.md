@@ -1,34 +1,32 @@
 # Nuttha Limkhhunthammo
 
-I am a third-year Computer Engineering student at Mahidol University. My project experience includes Java game development, UX/UI design and game testing.
+**Java development · UI design · Software testing**
 
-## Projects
+Third-year Computer Engineering student at Mahidol University. I have built game interfaces and character movement in Java, documented gameplay bugs, and explored frontend–API integration through an AI-assisted application project.
 
-### [CO Valley](https://github.com/Nuttha-lim/co-valley)
+[Project case studies](https://github.com/Nuttha-lim/portfolio) · [Java code](https://github.com/Nuttha-lim/co-valley/tree/main/src/main/java/Project3_6713120) · [Testing approach](https://github.com/Nuttha-lim/co-valley/blob/main/docs/PLAYTEST_CHECKLIST.md)
 
-CO Valley is a farming simulation developed by a five-person team using Java and Java Swing. I designed the game interface and implemented character movement, directional animations, fence collision and map transitions. I also tested gameplay.
+## Selected projects
 
-[Source code](https://github.com/Nuttha-lim/co-valley/tree/main/src/main/java/Project3_6713120) · [Architecture](https://github.com/Nuttha-lim/co-valley/blob/main/docs/ARCHITECTURE.md) · [Gameplay test plan](https://github.com/Nuttha-lim/co-valley/blob/main/docs/PLAYTEST_CHECKLIST.md)
+| Project | My work | Explore |
+| --- | --- | --- |
+| **[CO Valley](https://github.com/Nuttha-lim/co-valley)** · Java 21, Swing | Designed the interface and implemented four-direction movement, animation, fence collision and map transitions in a **five-person team**. | [Movement code](https://github.com/Nuttha-lim/co-valley/blob/main/src/main/java/Project3_6713120/world/Player.java) · [Build & screenshot](https://github.com/Nuttha-lim/co-valley/blob/main/docs/VALIDATION.md) |
+| **[Smart Task Manager](https://github.com/Nuttha-lim/smart-task-manager)** · Flutter, FastAPI, PostgreSQL | Built with AI assistance to connect task and calendar screens to an API and database. | [Backend tests](https://github.com/Nuttha-lim/smart-task-manager/tree/main/smart-task-manager/tests) · [Recorded results: 268 backend + 7 Flutter tests passed](https://github.com/Nuttha-lim/smart-task-manager/blob/main/docs/TEST_RESULTS.md) |
+| **[Carbon Credit Trading System](https://github.com/Nuttha-lim/carbon-credit-system)** · C | Developed registration, login and project-listing functions using structs, dynamic arrays and text-file persistence. | [Implementation](https://github.com/Nuttha-lim/carbon-credit-system/blob/main/login.c) · [Run locally](https://github.com/Nuttha-lim/carbon-credit-system#run-on-windows) |
 
-### [Smart Task Manager](https://github.com/Nuttha-lim/smart-task-manager)
+## Game testing experience
 
-I used AI assistance to build a task management application with Flutter/Dart, FastAPI, PostgreSQL and Docker. It includes task tracking, energy check-ins, daily planning and calendar tools.
+**Cat vs Cucumber · View Passion**
 
-[Source code](https://github.com/Nuttha-lim/smart-task-manager) · [Web deployment](https://github.com/whyohkay/stm-web)
+Tested the game level by level and recorded bugs in Google Sheets with screenshots or video. Provided feedback on difficulty, game balance and usability.
 
-### [Carbon Credit Trading System](https://github.com/Nuttha-lim/carbon-credit-system)
+For a public example of test-case structure, see the [CO Valley gameplay checklist](https://github.com/Nuttha-lim/co-valley/blob/main/docs/PLAYTEST_CHECKLIST.md). It covers movement, collision, inventory, shops and saving; execution results for that checklist are pending.
 
-I developed registration, login and project-management functions in C using structs, dynamic memory allocation and file handling. The program stores user accounts and project listings in local text files.
+## Skills demonstrated here
 
-## Game testing
+- **Java & Swing:** character movement, directional animation, scene transitions and desktop interfaces.
+- **C:** structs, dynamic memory allocation and file handling.
+- **Flutter/Dart, Python/FastAPI, PostgreSQL & Docker:** application integration through Smart Task Manager, built with AI assistance.
+- **Testing & UX/UI:** gameplay testing, visual bug reports, interface design and usability feedback.
 
-For Cat vs Cucumber at View Passion, I tested the game level by level and recorded bugs in Google Sheets with screenshots or video. I provided feedback on level difficulty, game balance and usability.
-
-## Technical skills
-
-- Programming: Java, C, C++, Python, SQL, JavaScript, HTML/CSS and Dart
-- Tools: Git, GitHub, IntelliJ IDEA, VS Code, Maven and Docker
-- Databases: MySQL and SQL-based data checks, with PostgreSQL experience through project work
-- Testing and design: gameplay testing, bug reporting, user flows and UX/UI design
-
-[More projects and experience](https://github.com/Nuttha-lim/portfolio)
+[Read the portfolio for contributions, code references and validation scope →](https://github.com/Nuttha-lim/portfolio)
