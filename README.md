@@ -10,9 +10,15 @@ CO Valley is a farming simulation developed by a five-person team using Java and
 
 [Source code](https://github.com/Nuttha-lim/co-valley/tree/main/src/main/java/Project3_6713120) · [Architecture](https://github.com/Nuttha-lim/co-valley/blob/main/docs/ARCHITECTURE.md) · [Gameplay test plan](https://github.com/Nuttha-lim/co-valley/blob/main/docs/PLAYTEST_CHECKLIST.md)
 
-### [Smart Task Manager](https://github.com/whyohkay/stm-web)
+### [Smart Task Manager](https://github.com/Nuttha-lim/smart-task-manager)
 
-I used AI assistance to build a task management application with Flutter/Dart, FastAPI, PostgreSQL and Docker. I learned how the frontend, API and database connect. The linked repository hosts the Flutter web build.
+I used AI assistance to build a task management application with Flutter/Dart, FastAPI, PostgreSQL and Docker. It includes task tracking, energy check-ins, daily planning and calendar tools.
+
+[Source code](https://github.com/Nuttha-lim/smart-task-manager) · [Web deployment](https://github.com/whyohkay/stm-web)
+
+### [Carbon Credit Trading System](https://github.com/Nuttha-lim/carbon-credit-system)
+
+I developed registration, login and project-management functions in C using structs, dynamic memory allocation and file handling. The program stores user accounts and project listings in local text files.
 
 ## Game testing
 
